@@ -1,10 +1,15 @@
 # IPL_2024_dashboard
 ![Screenshot 2024-02-26 155434](https://github.com/Rahulbaudh/IPL_2024_dashboard/assets/133002900/01e83e16-412d-48b5-91de-7a9e833a5d5a)
 
-####Oversears Players
+
+Oversears Players
+
+
 ![Screenshot 2024-02-26 155412](https://github.com/Rahulbaudh/IPL_2024_dashboard/assets/133002900/02d92e20-46e2-4626-9c67-852015d48664)
 
-####Indian Players
+Indian Players
+
+
 ![Screenshot 2024-02-26 155332](https://github.com/Rahulbaudh/IPL_2024_dashboard/assets/133002900/31d7175d-f3e7-4ed5-a234-2a66c2741473)
 
 Hey everyone!
@@ -25,8 +30,7 @@ I welcome any feedback, suggestions, or contributions to enhance the dashboard f
 
 Connect with Me:
 
-Let's connect on LinkedIn to stay updated on future projects, collaborations, and discussions related to cricket, data science, and more. Feel free to reach out with any questions or ideas you'd like to discuss.
-
+Let's connect on LinkedIn to stay updated on future projects, collaborations, and discussions related to cricket, data science, and more. Feel free to reach out with any questions or ideas you'd like to discuss
 (https://www.linkedin.com/in/rahulbaudh97/)
 
 I hope you enjoy exploring the IPL 2024 Auction Dashboard as much as I enjoyed creating it. Here's to unlocking new insights and unraveling the mysteries behind cricket's most exciting auction event!
